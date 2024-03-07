@@ -1,0 +1,6 @@
+Django==3.2.1
+djangorestframework==3.13.1
+pandas==2.0.3
+protobuf==4.25.3
+python-dotenv==1.0.1
+scikit_learn==1.2.0
